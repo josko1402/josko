@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+.GeneratedMarquee {
+font-family:Georgia, serif;
+font-size:13px;
+font-weight:bold;
+line-height:1.3em;
+text-align:center;
+color:#330099;
+background-color:#FFFFCC;
+padding:1em;
+
+}
+</style>
+
+<!-- HTML Code -->
+<marquee class="GeneratedMarquee" direction="left" scrollamount="4" behavior="scroll">Måndag: Kikärtsgryta med chili, kokosmjölk, ingefära och ris..........Tisdag: Rostade rotfrukter med chilikräm och keso..........Onsdag: Örtbakad fisk med bulgursallad och grönsaker  Alt: Grönsaksgratäng med potatismos..........Torsdag: Pasta med ost- och skinksås Alt:Pasta med ost- och tomatsås..........Fredag: Pumpasoppa med curry, kokos och spenat, nybakat bröd/marquee>
+
+</body>
+</html>
